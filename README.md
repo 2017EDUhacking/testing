@@ -1,7 +1,7 @@
 # Monday Trainings:晚上7:00-9:00
 
 
-10.1
+10.1:初登場
 
 10.8:Docker與CTFd建置
 
