@@ -1,13 +1,23 @@
 # Monday Trainings:晚上7:00-9:00
-Docker
-Kubernetes
-openstack
+
 
 10.1
 
-10.8:Docker 
+10.8:Docker與CTFd建置
 
-10.15:openstack
+10.15:無線網路設透測試
+
+
+# 訓練課程主軸
+
+### 雲端技術
+```
+Docker
+Kubernetes
+openstack
+```
+### 資安技術
+
 
 
 # 錄影及直播
