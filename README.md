@@ -7,7 +7,14 @@
 
 10.15:無線網路滲透測試
 
+# 基本技術
+```
+[1]下載pfsense iso檔,安裝到Visual Box並存成ova檔
+https://www.pfsense.org/
+https://en.wikipedia.org/wiki/PfSense
 
+[2]下載windows server 2016測試版
+```
 # 訓練課程主軸
 
 ### 雲端技術
