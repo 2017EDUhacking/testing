@@ -30,9 +30,14 @@ https://www.udemy.com/projects-in-mongodb/learn/v4/overview
 ```
 # Artificial Intelligence
 ```
-Artificial Intelligence 2018: Build the Most Powerful AI https://www.udemy.com/artificial-intelligence-ars/learn/v4/content
+Artificial Intelligence 2018: Build the Most Powerful AI 
+https://www.udemy.com/artificial-intelligence-ars/learn/v4/content
 
-Reinforcement Learning with Pytorch: https://www.udemy.com/reinforcement-learning-with-pytorch/learn/v4/content
+Reinforcement Learning with Pytorch: 
+https://www.udemy.com/reinforcement-learning-with-pytorch/learn/v4/content
+
+(尚未買)Deep Learning: GANs and Variational Autoencoders
+https://www.udemy.com/deep-learning-gans-and-variational-autoencoders/
 ```
 # Snort
 ```
@@ -41,6 +46,9 @@ https://www.udemy.com/snort-intrusion-detection-rule-writing-and-pcap-analysis/l
 ```
 # Penetration Testing
 ```
+(尚未買)Mastering Hacking and Penetration Testing :5 courses pack
+https://www.udemy.com/mastering-hacking-and-penetration-testing-5-courses-pack/
+
 The Complete Ethical Hacking Course: Beginner to Advanced!
 https://www.udemy.com/penetration-testing/
 
