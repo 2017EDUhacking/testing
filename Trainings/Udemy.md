@@ -19,6 +19,12 @@ https://www.udemy.com/webhacking/learn/v4/overview
 
 Kubernetes技术入门与实战
 https://www.udemy.com/k8s-chinese/learn/v4/content
+
+Kubernetes in 7 Days
+https://www.udemy.com/kubernetes-in-7-days/
+
+Learn DevOps: The Complete Kubernetes Course
+https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 ```
 # NOSQL資料庫:MongoDB 
 ```
@@ -58,14 +64,48 @@ https://www.udemy.com/cloud-hacking/learn/v4/overview
 The Complete Nmap Ethical Hacking Course : Network Security
 https://www.udemy.com/the-complete-nmap-ethical-hacking-course-network-security/
 
-Learn Hacking Windows 10 Using Metasploit From Scratch
-https://www.udemy.com/learn-hacking-10-windows-using-metasploit-from-scratch/learn/v4/overview
 
 Wireless Penetration Testing with Kali Linux & Raspberry Pi
 https://www.udemy.com/penetration-testing-using-raspberry-pi/learn/v4/overview
 
+
+Hands-on Penetration Testing Labs
+Comprehensive walkthroughs of penetration testing labs
+https://www.udemy.com/kali-linux-hands-on-penetration-testing-labs/
+
+Certified WhiteHat Hacker Level 1 ( CWHH Level 1)
+https://www.udemy.com/certified-whitehat-hacker-level-1/
+
+Certified White Hat Hacker Level 2 (CWHH Level 2)
+https://www.udemy.com/certified-white-hat-hacker-level-2/
+
+
+Practice Your First Penetration Test: Kali & Metasploit Lab
+https://www.udemy.com/kali-training/
+```
+### Forensics
+```
+Python Digital Forensics
+https://www.udemy.com/python-digital-forensics/
+
+Binary Exploits with Python
+https://www.udemy.com/binary-exploits-with-python/
+```
+### Windows Security
+```
+
+(尚未買)Practical Windows Penetration Testing
+https://www.udemy.com/practical-windows-penetration-testing/
+
+(尚未買)Powershell and Windows Server: 17+ Hours Bootcamp with Labs
+https://www.udemy.com/powershell-and-windows-server-13-hours-bootcamp-with-labs/
+
+Learn Hacking Windows 10 Using Metasploit From Scratch
+https://www.udemy.com/learn-hacking-10-windows-using-metasploit-from-scratch/learn/v4/overview
+
 Penetration Testing with PowerShell Empire
 https://www.udemy.com/penetration-testing-with-powershell-empire/learn/v4/overview
+
 ```
 # Network Security
 ```
@@ -87,6 +127,9 @@ https://www.udemy.com/the-complete-nmap-ethical-hacking-course-network-security/
 ```
 # web security
 ```
+Hands-On Web Penetration Testing with Kali Linux
+https://www.udemy.com/hands-on-web-penetration-testing-with-kali-linux/
+
 Web Hacking: Become a Professional Web Pentester
 https://www.udemy.com/webhacking/learn/v4/overview
 
@@ -154,6 +197,12 @@ Logging and Monitoring.
 
 Introduction To Linux High Availability Clustering
 https://www.udemy.com/linux-high-availability-clustering/
+
+零基础七天入门Linux
+https://www.udemy.com/linux-zh/
+
+Linux概論─以CentOS 7為例
+https://www.udemy.com/linuxcentos-7/
 ```
 #  LPIC Linux 認證
 ```
@@ -210,10 +259,27 @@ https://www.udemy.com/ecommerce-wordpress/
 Wordpress Security - How To Stop Hackers
 https://www.udemy.com/wordpress-security-stop-hackers/learn/v4/overview
 ```
-# 
+# Malware Analysis
 ```
+(似乎不錯)Introduction to Malware Analysis for Incident Responders
+https://www.udemy.com/malware-analysis/
+
 Reverse Engineering and Exploit Development
 https://www.udemy.com/reverse-engineering-and-exploit-development/learn/v4/overview
+
+Expert Malware Analysis and Reverse Engineering
+https://www.udemy.com/expert-malware-analysis-and-reverse-engineering/
+
+Practical Malware Analysis : Dissecting Malicious Software
+https://www.udemy.com/practical-malware-analysis-dissecting-malicious-software/
+
+Fundamentals of Malware Analysis
+https://www.udemy.com/fundamentals-of-malware-analysis/
+
+
+Advanced Malware Analysis
+Evade malware using IDA Pro, OllyDbg, and WINDBG
+https://www.udemy.com/advanced-malware-analysis/
 ```
 # premiere
 ```
@@ -232,4 +298,9 @@ https://www.udemy.com/ae-uiwud/learn/v4/overview
 
 Photoshop合成海报教程--Photoshop高手教程
 https://www.udemy.com/photoshop-photoshop/
+```
+# Moodle
+```
+Moodle: A Complete Guide: 3 in 1
+https://www.udemy.com/moodle-a-complete-guide-3-in-1/
 ```
