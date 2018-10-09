@@ -69,11 +69,21 @@ https://www.udemy.com/penetration-testing-with-powershell-empire/learn/v4/overvi
 ```
 # Network Security
 ```
+(尚未買)The Complete Cyber Security Course : Hackers Exposed!  Volume 1 :
+https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/
+
+
 The Complete Cyber Security Course : Network Security!
 https://www.udemy.com/network-security-course/learn/v4/overview
 
+(尚未買)The Complete Cyber Security Course : Anonymous Browsing! Volume 3
+https://www.udemy.com/the-complete-cyber-security-course-anonymous-browsing/
+
 Network Hacking Continued - Intermediate to Advanced
 https://www.udemy.com/network-hacking-continued-intermediate-to-advanced/learn/v4/overview
+
+The Complete Nmap Ethical Hacking Course : Network Security
+https://www.udemy.com/the-complete-nmap-ethical-hacking-course-network-security/
 ```
 # web security
 ```
@@ -86,6 +96,8 @@ https://www.udemy.com/web-application-penetration-testing-v31-bug-hunting/learn/
 HTTP to HTTPS - Secure your Website with SSL for Free
 https://www.udemy.com/https-secure-website-ssl-certificate/learn/v4/overview
 
+(尚未買)Web Security: Common Vulnerabilities And Their Mitigation
+https://www.udemy.com/web-security-common-vulnerabilities-and-their-mitigation/
 
 Website Hacking & Penetration Testing (Real World Hacking!)
 ```
@@ -151,8 +163,23 @@ https://www.udemy.com/linux-lpic-1-certification-complete-course/
 LPIC-3: 304 Virtualization & High Availability
 https://www.udemy.com/lpic-3-304-virtualization-and-higth-availability/
 ```
+# 資安證照CISSP 
+```
+CISSP (ALL Domains 1,2,3,4,5,6,7 & 8) Security Professional
+https://www.udemy.com/cissp-certified-information-system-security-professional-k/
+
+Certified Ethical Hacker (CEH) V9 - 500+ MORE Exam Questions
+https://www.udemy.com/certified-ethical-hacker-ceh-v9-500-more-exam-questions/
+```
+
 # PHP/Wordpress
 ```
+
+一堂課學會 PHP +MySQL !
+適合初學者的PHP & MySQL 完整課程
+https://www.udemy.com/php-mysql-u/
+
+
 PHP for Beginners: How to Build an E-Commerce Store
 https://www.udemy.com/php-for-beginners-how-to-build-an-ecommerce-store/learn/v4/overview
 
@@ -164,6 +191,9 @@ https://www.udemy.com/spotify-clone/
 
 PHP Security
 https://www.udemy.com/php-security/learn/v4/overview
+
+wordpress博客搭建培訓教程
+https://www.udemy.com/wordpress-h/
 
 無痛起步，用WordPress打造自己的網路商店
 https://www.udemy.com/wrodpress-shop/learn/v4/overview
@@ -185,8 +215,21 @@ https://www.udemy.com/wordpress-security-stop-hackers/learn/v4/overview
 Reverse Engineering and Exploit Development
 https://www.udemy.com/reverse-engineering-and-exploit-development/learn/v4/overview
 ```
-# 
+# premiere
 ```
+學premiere一定要搞懂的7堂課
+https://www.udemy.com/premiere7/
+
+零基础入门Premiere Pro CC 2018
+https://www.udemy.com/premiere-pro-course-chinese/
+
+Adobe大補帖( Premiere, Photoshop, illustrator)
+https://www.udemy.com/adobe-premiere-photoshop-illustrator/
+
+
 AE進階-特效實作攻略
 https://www.udemy.com/ae-uiwud/learn/v4/overview
+
+Photoshop合成海报教程--Photoshop高手教程
+https://www.udemy.com/photoshop-photoshop/
 ```
