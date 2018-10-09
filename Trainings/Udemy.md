@@ -1,5 +1,5 @@
 # OpenStack 
-
+```
 Private Cloud with OpenStack and Ceph Storage
 https://www.udemy.com/private-cloud-with-openstack-and-ceph-storage/learn/v4/overview
 
@@ -9,8 +9,9 @@ https://www.udemy.com/deep-dive-the-openstack-cloud/learn/v4/content
 Preparing to Certified OpenStack Administrator (COA) Exam
 https://www.udemy.com/preparing-to-certified-openstack-administrator-coa-exam/
 
+```
 # Docker與Kubernetes
-
+```
 Docker技術入門與實戰 https://www.udemy.com/docker-china/
 
 Learning Docker and Kubernetes by Lab
@@ -18,28 +19,28 @@ https://www.udemy.com/webhacking/learn/v4/overview
 
 Kubernetes技术入门与实战
 https://www.udemy.com/k8s-chinese/learn/v4/content
-
+```
 # NOSQL資料庫:MongoDB 
-
+```
 Learn MongoDB : Leading NoSQL Database from scratch
 https://www.udemy.com/learn-mongodb-leading-nosql-database-from-scratch/learn/v4/overview
 
 Projects in MongoDB - Learn MongoDB Building Projects
 https://www.udemy.com/projects-in-mongodb/learn/v4/overview
-
+```
 # Artificial Intelligence
-
+```
 Artificial Intelligence 2018: Build the Most Powerful AI https://www.udemy.com/artificial-intelligence-ars/learn/v4/content
 
 Reinforcement Learning with Pytorch: https://www.udemy.com/reinforcement-learning-with-pytorch/learn/v4/content
-
+```
 # Snort
-
+```
 Snort Intrusion Detection, Rule Writing, and PCAP Analysis: 
 https://www.udemy.com/snort-intrusion-detection-rule-writing-and-pcap-analysis/learn/v4/content
-
+```
 # Penetration Testing
-
+```
 The Complete Ethical Hacking Course: Beginner to Advanced!
 https://www.udemy.com/penetration-testing/
 
@@ -57,17 +58,17 @@ https://www.udemy.com/penetration-testing-using-raspberry-pi/learn/v4/overview
 
 Penetration Testing with PowerShell Empire
 https://www.udemy.com/penetration-testing-with-powershell-empire/learn/v4/overview
-
+```
 # Network Security
-
+```
 The Complete Cyber Security Course : Network Security!
 https://www.udemy.com/network-security-course/learn/v4/overview
 
 Network Hacking Continued - Intermediate to Advanced
 https://www.udemy.com/network-hacking-continued-intermediate-to-advanced/learn/v4/overview
-
+```
 # web security
-
+```
 Web Hacking: Become a Professional Web Pentester
 https://www.udemy.com/webhacking/learn/v4/overview
 
@@ -79,10 +80,10 @@ https://www.udemy.com/https-secure-website-ssl-certificate/learn/v4/overview
 
 
 Website Hacking & Penetration Testing (Real World Hacking!)
-
+```
 
 # 系統安全:
-
+```
 Linux Security and Hardening, The Practical Security Guide.
 https://www.udemy.com/linux-security/
 
@@ -97,9 +98,9 @@ https://www.udemy.com/linux-shell-scripting-projects/
 
 Linux Performance Monitoring & Analysis
 https://www.udemy.com/linux-performance-monitoring-analyzing/
-
+```
 # Red Hat 認證
-
+```
 Linux Academy Red Hat Certified Engineer Prep
 https://www.udemy.com/linux-academy-red-hat-certified-engineer-prep/
 
@@ -133,17 +134,17 @@ Logging and Monitoring.
 
 Introduction To Linux High Availability Clustering
 https://www.udemy.com/linux-high-availability-clustering/
-
+```
 #  LPIC Linux 認證
-
+```
 The Complete Linux LPIC-1 Certification Course Exams 101-102
 https://www.udemy.com/linux-lpic-1-certification-complete-course/
 
 LPIC-3: 304 Virtualization & High Availability
 https://www.udemy.com/lpic-3-304-virtualization-and-higth-availability/
-
+```
 # PHP/Wordpress
-
+```
 PHP for Beginners: How to Build an E-Commerce Store
 https://www.udemy.com/php-for-beginners-how-to-build-an-ecommerce-store/learn/v4/overview
 
@@ -170,11 +171,14 @@ https://www.udemy.com/ecommerce-wordpress/
 
 Wordpress Security - How To Stop Hackers
 https://www.udemy.com/wordpress-security-stop-hackers/learn/v4/overview
-
+```
 # 
+```
 Reverse Engineering and Exploit Development
 https://www.udemy.com/reverse-engineering-and-exploit-development/learn/v4/overview
-
-
+```
+# 
+```
 AE進階-特效實作攻略
 https://www.udemy.com/ae-uiwud/learn/v4/overview
+```
