@@ -15,5 +15,11 @@
 藉此分析駭客攻擊行為，讓學生瞭解駭客攻擊的手法與如何透過各項工具進行偵測與防禦，並以人工智慧的技術深化資訊安全防護功能。	
 
 This course provides a thorough discussion of AI's concepts and  applications. 
-These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation
-3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving
+These are the following : 
+1. TENSORFLOW and PyTorch 
+2. CNN AND RNN(LSTM)
+3. Image classification with TensorFlow
+4. Natural Language Processing 
+5. TRANSFER LEARNING
+6. Deep Reinforcement Learning 
+7. Generative Adversarial Networks:cGAN/BEGAN/StackGAN
