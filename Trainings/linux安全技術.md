@@ -1,5 +1,54 @@
 # 參考資料
 ```
+Mastering Linux Security [Video]
+Marc Heuse
+Tuesday, July 31, 2018
+https://www.packtpub.com/networking-and-servers/mastering-linux-security-video
+```
+# 參考資料
+```
+Practical Linux Security Solutions [Video]
+Tajinder Kalsi
+Tuesday, July 31, 2018
+https://www.packtpub.com/networking-and-servers/practical-linux-security-solutions-video
+```
+
+# 參考資料
+```
+Mastering Linux Security and Hardening
+Donald A. Tevault
+January 2018
+```
+```
+1: RUNNING LINUX IN A VIRTUAL ENVIRONMENT
+2: SECURING USER ACCOUNTS
+3: SECURING YOUR SERVER WITH A FIREWALL
+4: ENCRYPTING AND SSH HARDENING
+5: MASTERING DISCRETIONARY ACCESS CONTROL
+6: ACCESS CONTROL LISTS AND SHARED DIRECTORY MANAGEMENT
+7: IMPLEMENTING MANDATORY ACCESS CONTROL WITH SELINUX AND APPARMOR
+8: SCANNING, AUDITING, AND HARDENING
+9: VULNERABILITY SCANNING AND INTRUSION DETECTION
+10: SECURITY TIPS AND TRICKS FOR THE BUSY BEE
+```
+
+# 參考資料
+```
+Practical Linux Security Cookbook - Second Edition
+Tajinder Kalsi
+August 2018
+https://www.packtpub.com/networking-and-servers/practical-linux-security-cookbook-second-edition
+```
+# 參考資料
+```
+Advanced Infrastructure Penetration Testing
+Chiheb Chebbi
+February 2018
+https://www.packtpub.com/networking-and-servers/advanced-infrastructure-penetration-testing
+```
+
+# 參考資料
+```
 Mastering Ubuntu Server - Second Edition
 Jay LaCroix
 May 2018
