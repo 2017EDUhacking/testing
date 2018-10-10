@@ -1,0 +1,19 @@
+工程學院	資訊工程系	GA8630	人工智慧與資訊安全	校訂選修科目	選修課程	3	曾龍	
+
+熟悉人工智慧與資訊安全基礎知識	
+
+熟悉人工智慧的設計技術與資訊安全的攻防技術	
+
+引領學生培養主動求知與解決問題的態度	
+
+鼓勵學生積極參與資安活動，培訓未來國家資安人才	
+
+人工智慧是現今備受關注的應用發展潮流，本課程先讓學生了解何謂人工智慧，
+並透過教導tensorflow與PyTorch實務開發技術實作出卷積神經網路CNN及遞迴神經網路RNN範例。
+
+另本課程強調領域應用，將以資訊安全領域最為實踐場域 。課程將深入滲透測試技術帶領學生進行資安攻防實務演練，
+藉此分析駭客攻擊行為，讓學生瞭解駭客攻擊的手法與如何透過各項工具進行偵測與防禦，並以人工智慧的技術深化資訊安全防護功能。	
+
+This course provides a thorough discussion of AI's concepts and  applications. 
+These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation
+3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving
