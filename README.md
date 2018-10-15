@@ -1,44 +1,31 @@
 # Monday Trainings:晚上7:00-9:00
 
-
 10.1:初登場
 
 10.8:Docker與CTFd建置
 
-10.15:無線網路滲透測試
-
-# 基本技術
+10.15:無線網路滲透測試[許嘉修]
 ```
-[1]下載pfsense iso檔,安裝到Visual Box並存成ova檔
-https://www.pfsense.org/
-https://en.wikipedia.org/wiki/PfSense
-
-[2]下載windows server 2016測試版
+測試環境建置
+Fake AP攻擊測試
+WPA 密碼破解
 ```
-# 訓練課程主軸
-
-### 雲端技術
+10.22:security-onion建置與測試[]
 ```
-Docker
-Kubernetes
-openstack
+security-onion安裝:從ios到ova
+測試環境建置
+攻擊測試
 ```
-### 資安技術
+10.29:modsecurity WAP測試[許嘉修]
+```
+測試環境建置
+modsecurity WAP安裝:server版
+modsecurity WAP安裝:Rsapberry版[IOT]
+阻擋SQL injection攻擊測試
+阻擋command injection攻擊測試
+阻擋XSS攻擊測試
+```
 
-
-
-# 錄影及直播
-
-# 資安教材製作與測試:
-
-### 教材1: IDS 
-
-### 教材2:snort
-
-### 教材3:IDS 測試
-
-### 教材1:網站安全測試 DVWA
-Command injection
 
 
 
