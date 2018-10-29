@@ -18,17 +18,25 @@ modsecurity WAP安裝:Rsapberry版[IOT]
 學生工作：測試環境建置與錄影
 ```
 [1]Windows{8/10}平台測試環境建置:XAMPP + DVWA + Modsecurity
-  [1.1]Ubuntu linux 16.04漏洞平台測試環境建置:XAMPP + DVWA
-  [1.2]Ubuntu linux 16.04平台測試環境建置:XAMPP + DVWA + Modsecurity
+  [1.1]Windows{8/10} web平台測試環境建置:XAMPP
+  [1.2]Windows{8/10} web漏洞平台測試環境建置:XAMPP + DVWA
+  [1.3]Windows{8/10} web攻防平台測試環境建置:XAMPP + DVWA + Modsecurity 
 [2]Ubuntu linux 16.04平台測試環境建置:XAMPP + DVWA + Modsecurity
-  [2.1]Ubuntu linux 16.04漏洞平台測試環境建置:XAMPP + DVWA
-  [2.2]Ubuntu linux 16.04平台測試環境建置:XAMPP + DVWA + Modsecurity
+  [2.1]Ubuntu linux 16.04 web平台測試環境建置:XAMPP
+  [2.2]Ubuntu linux 16.04 web漏洞平台測試環境建置:XAMPP + DVWA
+  [2.3]Ubuntu linux 16.04 web攻防平台測試環境建置:XAMPP + DVWA + Modsecurity 
 [3]Ubuntu linux 18.04平台測試環境建置:XAMPP + DVWA + Modsecurity
-  [3.1]Ubuntu linux 18.04漏洞平台測試環境建置:XAMPP + DVWA
-  [3.2]Ubuntu linux 18.04平台測試環境建置:XAMPP + DVWA + Modsecurity
+  [3.1]Ubuntu linux 18.04 web平台測試環境建置:XAMPP
+  [3.2]Ubuntu linux 18.04 web漏洞平台測試環境建置:XAMPP + DVWA
+  [3.3]Ubuntu linux 18.04 web攻防平台測試環境建置:XAMPP + DVWA + Modsecurity 
 [4]IOTSecurity Ubuntu MATE 18.04平台測試環境建置:XAMPP + DVWA + Modsecurity
-  [4.1]Ubuntu MATE  18.04漏洞平台測試環境建置:XAMPP + DVWA
-  [4.2]Ubuntu MATE  18.04平台測試環境建置:XAMPP + DVWA + Modsecurity
+  [4.1]Ubuntu MATE  18.04 web平台測試環境建置:XAMPP
+  [4.2]Ubuntu MATE  18.04 web漏洞平台測試環境建置:XAMPP + DVWA
+  [4.3]Ubuntu MATE  18.04 web攻防平台測試環境建置:XAMPP + DVWA + Modsecurity 
+[5]Centos 7.5平台測試環境建置:XAMPP + DVWA + Modsecurity
+  [5.1]Centos 7.5 web平台測試環境建置:XAMPP
+  [5.2]Centos 7.5 web漏洞平台測試環境建置:XAMPP + DVWA
+  [5.3]Centos 7.5 web攻防平台測試環境建置:XAMPP + DVWA + Modsecurity
 ```
 
 學生工作：攻防演練錄影
