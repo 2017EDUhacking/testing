@@ -55,6 +55,11 @@ https://www.udemy.com/learning-python-for-data-analysis-and-visualization/
 # Python 機器學習
 
 # Python與人工智慧
+
+```
+[已買]Artificial Intelligence 2018
+https://www.udemy.com/artificial-intelligence-ars/learn/v4/overview
+```
 ### Convolutional Neural Networks in Python
 ```
 Deep Learning: Convolutional Neural Networks in Python
@@ -94,7 +99,8 @@ https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python/
 ```
 
 ```
-
+[已買]Reinforcement Learning with Pytorch
+https://www.udemy.com/reinforcement-learning-with-pytorch/learn/v4/content
 ```
 ### 
 ```
