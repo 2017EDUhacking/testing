@@ -34,7 +34,8 @@
 ### Python for Data Analysis
 ```
 Data Analysis with Pandas and Python
-Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!
+Analyze data quickly and easily with Python's powerful pandas library! 
+All datasets included --- beginners welcome!
 暢銷課程
 4.5 (3268 個評等)
 65475 名學生註冊
@@ -68,7 +69,8 @@ https://www.udemy.com/deep-learning-convolutional-neural-networks-theano-tensorf
 ### Natural Language Processing
 ```
 Natural Language Processing with Deep Learning in Python
-Complete guide on deriving and implementing word2vec, GloVe, word embeddings, and sentiment analysis with recursive nets
+Complete guide on deriving and implementing word2vec, GloVe, word embeddings, 
+and sentiment analysis with recursive nets
 4.6 (2124 個評等)
 18977 名學生註冊
 建立者： Lazy Programmer Inc.
@@ -82,7 +84,8 @@ https://www.udemy.com/natural-language-processing-with-deep-learning-in-python/
 ### Reinforcement Learning in Python
 ```
 Artificial Intelligence: Reinforcement Learning in Python
-Complete guide to artificial intelligence and machine learning, prep for deep reinforcement learning
+Complete guide to artificial intelligence and machine learning, 
+prep for deep reinforcement learning
 4.6 (2802 個評等)
 18677 名學生註冊
 建立者： Lazy Programmer Inc.
