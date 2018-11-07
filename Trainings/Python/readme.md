@@ -7,6 +7,26 @@
 ```
 
 ```
+### Python 滲透測試
+```
+
+
+```
+
+```
+
+```
+
+### Python 網路爬蟲 
+```
+
+
+```
+
+```
+
+```
+# Python 資料分析
 
 ### Python for Data Analysis
 ```
@@ -28,6 +48,9 @@ Includes tons of sample code and hours of video!
 https://www.udemy.com/learning-python-for-data-analysis-and-visualization/
 ```
 
+# Python 機器學習
+
+# Python與人工智慧
 ### Convolutional Neural Networks in Python
 ```
 Deep Learning: Convolutional Neural Networks in Python
