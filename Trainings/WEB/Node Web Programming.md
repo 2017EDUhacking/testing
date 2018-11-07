@@ -26,11 +26,29 @@ Master Node JS, build REST APIs with Node.js, GraphQL APIs, add Authentication, 
 
 ```
 
-
+### Node.js專案
+```
+Learn Node.js by building Udemy
+https://www.udemy.com/use-javascript-to-build-udemy-stripe-mailchimp-wistia/learn/v4/overview
 ```
 
 
 ```
+[已買]Learn Nodejs by building 12 projects
+https://www.udemy.com/learn-nodejs-by-building-10-projects/learn/v4/overview
+```
 
+```
+[已買]Build an Amazon clone: Nodejs + MongoDB + Stripe Payment
+https://www.udemy.com/build-an-amazon-clone-nodejs-stripe-elasticsearch/learn/v4/overview
+```
 
+```
+[已買]Node with SocketIO: Build A Full Web Chat App From Scratch
+Build A Complete Chat App With Private and Group Chat Functionalities Using NodeJS, SocketIO, MongoDB, Express
+4.2 (129 個評等)
+1288 名學生註冊
+建立者： Uzochukwu Eddie Odozi
+上次更新 9/2017
+https://www.udemy.com/node-with-socketio-build-a-full-web-chat-app-from-scratch/learn/v4/overview
 ```
