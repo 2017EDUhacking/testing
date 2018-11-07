@@ -8,10 +8,12 @@ Backend API with Node & Express - Fast Track for Beginners
 Learn how to build a backend REST API with Node & Express and PostgreSQL or MongoDB (based on TypeScript).
 https://www.udemy.com/rest-api-with-node-express-fast-track-for-beginners/
 ```
-
 ```
-
-The Complete Node.js Developer Course (2nd Edition)
+[已買]Advanced Node.js Development
+https://www.udemy.com/refactoru-adv-nodejs/learn/v4/content
+```
+```
+[已買]The Complete Node.js Developer Course (2nd Edition)
 Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!
 暢銷課程
 4.6 (23285 個評等)
@@ -29,6 +31,13 @@ Master Node JS, build REST APIs with Node.js, GraphQL APIs, add Authentication, 
 建立者： Maximilian Schwarzmüller
 
 ```
+```
+[已買]Node with React: Fullstack Web Development
+https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/overview
+```
+
+
+
 
 ### Node.js專案
 ```
