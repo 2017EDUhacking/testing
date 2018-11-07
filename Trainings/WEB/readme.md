@@ -15,6 +15,20 @@ The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scr
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 ```
 # PHP Web Programming:
+```
+Getting Started with PHP 7 [Video]
+Budi Irawan
+Monday, January 23, 2017
+https://www.packtpub.com/application-development/getting-started-php-7-video
+```
+```
+Mastering Moodle [Video]
+Silvina Paola Hillar
+Thursday, June 21, 2018
+
+Master Moodle and create powerful Gamified Moodle courses
+https://www.packtpub.com/application-development/mastering-moodle-video
+```
 
 ### PHP Symfony 4 Framework
 ```
