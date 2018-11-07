@@ -1,5 +1,9 @@
 # Node Web Programming:
 ```
+[已買]Node.js for Beginners 
+https://www.udemy.com/nodejs-for-beginners-become-a-nodejs-developer/learn/v4/overview
+```
+```
 Backend API with Node & Express - Fast Track for Beginners
 Learn how to build a backend REST API with Node & Express and PostgreSQL or MongoDB (based on TypeScript).
 https://www.udemy.com/rest-api-with-node-express-fast-track-for-beginners/
@@ -28,7 +32,7 @@ Master Node JS, build REST APIs with Node.js, GraphQL APIs, add Authentication, 
 
 ### Node.js專案
 ```
-Learn Node.js by building Udemy
+[已買]Learn Node.js by building Udemy
 https://www.udemy.com/use-javascript-to-build-udemy-stripe-mailchimp-wistia/learn/v4/overview
 ```
 
