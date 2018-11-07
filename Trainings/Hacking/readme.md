@@ -2,7 +2,8 @@
 ###
 ```
 Penetration Testing with Metasploit & Analyzing the IDS logs
-Learn to conduct PenTesting / White Hacking using Metasploit plus Analyzing the Intrusion Detection System (IDS) events
+Learn to conduct PenTesting / White Hacking using Metasploit 
+plus Analyzing the Intrusion Detection System (IDS) events
 4.6 (39 個評等)
 2319 名學生註冊
 建立者： Ismail Eltahawy
@@ -10,6 +11,10 @@ Learn to conduct PenTesting / White Hacking using Metasploit plus Analyzing the 
 https://www.udemy.com/penetration-testing-using-metasploit/
 
 Intrusion Detection System (IDS) Evasion
+```
+```
+[已買]Penetration Testing with PowerShell
+https://www.udemy.com/penetration-testing-with-powershell-empire/learn/v4/overview
 ```
 ```
 Learn Hacking using Raspberry Pi From Scratch
@@ -47,8 +52,8 @@ https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/
 ```
 
 ```
-
-
+[已買]Reverse Engineering and Exploit Deve
+https://www.udemy.com/reverse-engineering-and-exploit-development/learn/v4/overview
 ```
 
 
