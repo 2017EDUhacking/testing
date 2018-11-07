@@ -62,7 +62,26 @@ Master Node JS, build REST APIs with Node.js, GraphQL APIs, add Authentication, 
 https://www.udemy.com/python-webdjango/?deal_code=1811WHALE-ONLYSALE&utm_source=email-Adhoc&utm_campaign=2018-11-07_._cn_WOS_._en_NEW_._us_A5plustl_T4_._tg_n_.__._la_zh_._rn_2018-11-07_._&utm_medium=2018-11-07_WOS_NEW_A5plus_T4_n&utm_content=udemy.15119125&data_h=BUYbcFdaRnw=&utm_term=NEW_CAT_SUBCAT_OVERALL_1A
 ```
 
+# .NET web programming
+```
+Beginning ASP.NET [eLearning]
+Zsolt Nagy
+Wednesday, June 27, 2018
+https://www.packtpub.com/web-development/beginning-aspnet-elearning-video
+```
 
+
+```
+Introduction to ASP.NET Core 2 | Creating HTML Form With Tag Helpers | Part 12 | Eduonix
+https://www.youtube.com/watch?v=znP3ZF0NJ1g
+
+ASP.NET Core 2
+
+https://docs.microsoft.com/zh-tw/aspnet/core/?view=aspnetcore-2.1
+https://docs.microsoft.com/zh-tw/aspnet/core/tutorials/index?view=aspnetcore-2.1
+
+https://github.com/dotnet-architecture/eShopOnWeb
+```
 ```
 
 
