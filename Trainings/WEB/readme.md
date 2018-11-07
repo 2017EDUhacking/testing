@@ -24,13 +24,20 @@ https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 [已買]PHP for Beginners
 https://www.udemy.com/php-for-beginners-how-to-build-an-ecommerce-store/learn/v4/overview
 ```
+
+```
+[已買]PHP OOP: Object Oriented Programm
+https://www.udemy.com/oop-php-object-oriented-programing-with-project-1-course/learn/v4/overview
+```
+
 ```
 Getting Started with PHP 7 [Video]
 Budi Irawan
 Monday, January 23, 2017
 https://www.packtpub.com/application-development/getting-started-php-7-video
 ```
-# PHP Web Programming 與 WordPress
+
+# PHP 與 WordPress
 ```
 [已買]WordPress Academy: Learn WordPres
 https://www.udemy.com/wordpress-academy-course/learn/v4/overview
@@ -44,7 +51,7 @@ https://www.udemy.com/wrodpress-shop/learn/v4/overview
 https://www.udemy.com/wordpresstheme/learn/v4/overview
 ```
 
-# PHP Web Programming 與 Moodle
+# PHP 與 Moodle
 ```
 Mastering Moodle [Video]
 Silvina Paola Hillar
@@ -54,10 +61,11 @@ Thursday, June 21, 2018
 Master Moodle and create powerful Gamified Moodle courses
 https://www.packtpub.com/application-development/mastering-moodle-video
 ```
-
-
-
-
+### PHP Laravel Framework
+```
+[已買]Projects in Laravel: Learn Laravel Building 10 Projects
+https://www.udemy.com/projects-in-laravel-learn-laravel-building-10-projects/learn/v4/overview
+```
 ### PHP Symfony 4 Framework
 ```
 Symfony 4 API Platform + React.js Full Stack Masterclass
@@ -72,17 +80,14 @@ https://www.udemy.com/learn-symfony-4-hands-on-creating-a-real-world-application
 ```
 
 
-
-
 # PHP專案
 ```
-Create a YouTube Clone from Scratch
+[已買]Create a YouTube Clone from Scratch
 https://www.udemy.com/youtube-clone/learn/v4/overview
 ```
 
-
 ```
-Create a Spotify Clone from Scratch
+[已買]Create a Spotify Clone from Scratch
 https://www.udemy.com/spotify-clone/learn/v4/overview
 ```
 
