@@ -18,6 +18,74 @@ Build Responsive Real World Websites with HTML5 and CSS3
 The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.
 https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 ```
+# JavaScript Web Programming:Client
+
+```
+JavaScript Fundamentals 2018 ES6 for beginners
+Learn JavaScript fundamental coding concepts. Including new ES6 syntax, start using JavaScript within web pages
+4.2 (136 個評等)
+7367 名學生註冊
+建立者： Laurence Svekis
+上次更新 6/2018
+https://www.udemy.com/javascript-tutorial-beginners/
+```
+```
+The Modern JavaScript Bootcamp (2018)
+Learn JavaScript by building real-world apps. Includes 3 real-world projects, 80 programming challenges, and ES6/ES7!
+最高評等
+4.7 (2496 個評等)
+12236 名學生註冊
+建立者： Andrew Mead
+上次更新 5/2018
+https://www.udemy.com/modern-javascript/
+```
+```
+Web前端开发 - 玩转JavaScript 【以实战为基础】
+课程中超过100个实战案例，从无到有学习javascript的各种实战技巧。web课程的学习路线是HTML、CSS、Javascript、jQuery、HTML5、CSS3、移动端web开发、Bootstrap、NodeJS...
+4.4 (221 個評等)
+5317 名學生註冊
+建立者： yz z
+上次更新 10/2018
+https://www.udemy.com/web-javascript/
+```
+### Bootstrap 4
+```
+Bootstrap 4最強實戰教學，讓你現學現用
+最完整的11.5個小時課程，全面解析Boostrap4原理
+3.9 (56 個評等)
+574 名學生註冊
+建立者： 朝輝 蘇
+上次更新 7/2018
+ Traditional Chinese
+https://www.udemy.com/go-bootstrap4/
+```
+```
+精通 Bootstrap 4 - 開發超強不解釋
+質感網站輕鬆不求人
+4.8 (413 個評等)
+1486 名學生註冊
+建立者： 王志誠 Wang, 廖洧杰 liao, 六角 學院
+上次更新 10/2018
+https://www.udemy.com/getbootstrap-4/
+```
+
+### jQuery
+
+```
+jQuery入門超簡單，無痛邁入網頁前端第一步！
+無基礎專用！詳細的基礎原理講解，搭配實例運用，讓您學習無障礙。
+4.5 (31 個評等)
+239 名學生註冊
+建立者： 朝輝 蘇
+上次更新 9/2018
+ Traditional Chinese
+https://www.udemy.com/jquery-basic/
+```
+
+### jQuery mobile
+```
+
+```
 # PHP Web Programming:
 
 ```
