@@ -2,6 +2,35 @@
 ```
 課程通知
 ```
+
+### 11.26:防火牆與入侵偵測系統測試[許嘉修]
+```
+防火牆[5分鐘]
+測試環境建置[1分鐘]
+pfsense介紹[1分鐘]
+pfsense安裝與設定[5分鐘]
+pfSense的防火牆規則設定[3分鐘]
+pfsense攻防實務(1):DoS Attack[3分鐘]
+
+```
+```
+入侵偵測系統[5分鐘]
+snort入侵偵測系統[5分鐘]
+snort測試環境建置[3分鐘]==>IDS201811.ova
+DVWA漏洞平台建置[1分鐘]==>IDS201811.ova
+snort規則建置與設定[1分鐘]
+
+攻擊指令+偵測規則+日誌分析
+IDS攻擊與偵測實務(1)Ping scan [3分鐘]
+IDS攻擊與偵測實務(2)SQL injection [3分鐘]
+IDS攻擊與偵測實務(3)DOS [3分鐘]
+IDS攻擊與偵測實務(4)HTTP DoS Attack [3分鐘]
+https://github.com/jseidl/GoldenEye
+
+IDS攻擊與偵測實務(4)HTTP Slowloris DDoS Attack [3分鐘]
+https://en.wikipedia.org/wiki/Slowloris_(computer_security)
+https://github.com/gkbrk/slowloris
+```
 ### 11.19:Openstack雲端技術[成大碩士]
 
 ### 期中考期間==先準備好再繼續
